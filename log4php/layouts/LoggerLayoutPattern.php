@@ -65,6 +65,7 @@ class LoggerLayoutPattern extends LoggerLayout {
 		'F' => 'LoggerPatternConverterFile',
 		'file' => 'LoggerPatternConverterFile',
 			
+		// Add new pattern for base filename
 		'f' => 'LoggerPatternConverterBaseFile',
 		'basefile' => 'LoggerPatternConverterBaseFile',
 			
